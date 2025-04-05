@@ -26,5 +26,5 @@ def triplet(nums)-> bool:
              
     
 arr2 = [1,2,3,4,5]
-print(getSecondMin(arr))
+
 print(triplet(arr2))
